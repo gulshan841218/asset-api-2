@@ -3,5 +3,6 @@ hide_body: false
 is_partial: false
 fields: []
 pages:
+- test.md
 - _people/test.md
 - _posts/test.md
