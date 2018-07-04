@@ -17,9 +17,9 @@ This site allows you to explore Forestry's features and functionality, and is **
 
 Thank you for choosing to demo Forestry!
 
-
+gulshan singh
 <div>
   {% for post in site.posts %}
-    <a href="{{ post.url }}">{{ post.title }}</a>
+    <a singh href="{{ post.url }}">{{ post.title }}</a>
   {% endfor %}
 </div>
