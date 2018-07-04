@@ -8,4 +8,4 @@ fields:
   hidden: false
   default: post
 pages:
-- _posts/test.html
+- _posts/2018-07-04-test.html
